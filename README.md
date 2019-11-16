@@ -41,4 +41,3 @@ References:
 •	Recommendation System In Python using ALS Algorithm and Apache Spark-https://medium.com/@patelneha1495/recommendation-system-in-python-using-als-algorithm-and-apache-spark-27aca08eaab3 [Reference Section: Creating ALS model and fitting data]
 
 
-
